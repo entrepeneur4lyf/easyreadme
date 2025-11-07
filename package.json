@@ -50,7 +50,7 @@
     "@vercel/analytics": "1.5.0",
     "@vercel/kv": "3.0.0",
     "@vercel/speed-insights": "1.0.10",
-    "ai": "4.1.45",
+    "ai": "5.0.52",
     "autoprefixer": "10.4.17",
     "class-variance-authority": "0.7.0",
     "clsx": "2.1.0",
